@@ -6,5 +6,5 @@
 Para rodar esse projeto na sua máquina, por favor digite: (o caso abaixo é um exemplo)
 
 ```
-note app.js
+node app.js
 ```
